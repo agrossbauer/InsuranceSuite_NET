@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ApplicationLayer.csproj" />
+    <ProjectReference Include="..\insuranceSuite_NET461\DomainLayer.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\bin\Debug\netstandard2.0\ApplicationLayer.deps.json
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\bin\Debug\netstandard2.0\ApplicationLayer.dll
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\bin\Debug\netstandard2.0\ApplicationLayer.pdb
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\bin\Debug\netstandard2.0\DomainLayer.dll
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\bin\Debug\netstandard2.0\DomainLayer.pdb
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\obj\Debug\netstandard2.0\ApplicationLayer.csprojResolveAssemblyReference.cache
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\obj\Debug\netstandard2.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\obj\Debug\netstandard2.0\ApplicationLayer.AssemblyInfoInputs.cache
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\obj\Debug\netstandard2.0\ApplicationLayer.AssemblyInfo.cs
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\obj\Debug\netstandard2.0\ApplicationLayer.dll
+H:\isnet\insuranceSuite_NET461\ClassLibrary1\obj\Debug\netstandard2.0\ApplicationLayer.pdb

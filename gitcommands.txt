@@ -1,0 +1,11 @@
+git clone [URL] [shortname]
+git clone https://github.com/agrossbauer/InsuranceSuite_NET.git isnet
+-- isnet = alias
+
+cd isnet
+-- change directory to 'isnet'
+
+git remote 
+-- origin
+git remote -v
+-- origin URL
