@@ -6,6 +6,19 @@ cd isnet
 -- change directory to 'isnet'
 
 git remote 
--- origin
+// origin
 git remote -v
--- origin URL
+// origin URL
+
+git add .
+// add all files
+
+git status
+//list all staged files
+
+git commit -m "comment"
+//commit
+
+git push origin [branch (e.g. master)]
+//push branch to remote repository
+
